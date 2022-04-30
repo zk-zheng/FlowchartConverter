@@ -5,7 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using FlowchartConverter.Nodes;
-using FlowchartConverter.Properties;
+// using FlowchartConverter.Properties;
+using TestingLast.Properties;
 
 namespace FlowchartConverter.CodeGeneration
 {
